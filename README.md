@@ -1,2 +1,2 @@
-# Object_detection_in_video
-Some basic functions for object detection in a video
+# Detect objects from videos
+Some basic functions for object detection in a video, saving frame images with annotation box
